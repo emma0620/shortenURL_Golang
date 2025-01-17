@@ -66,7 +66,7 @@ https://example.com
 
 
 ```markdown
-project/
+shortenURL_Golang/
 ├── cmd/                # 主程序入口
 │   └── main.go         # 主入口文件
 ├── internal/           # 後端核心邏輯（業務代碼）
